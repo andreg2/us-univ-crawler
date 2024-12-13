@@ -44,3 +44,6 @@ When a crawler is triggered it will reach the webpage related to the university 
 - So for the future I would like to develop this part for using Pyserini for reading the documents and creating an index for querying data from there and providing recommendations to the users.
 - Besides not having this ready yet, the database with data collected by the crawlers can be used for now for querying aggragated data about the universities courses, addresses and rankings.
 - Also for the future I will work on a better fault tolerance for the crawlers, having a retry method and improved logs.
+
+## **Link to tutorial presentation:**
+https://mediaspace.illinois.edu/media/t/1_wpcdlmnj
